@@ -1,0 +1,8 @@
+alg_name: "IKE"
+model_name: "/path/to/gpt-j-6B"
+sentence_model_name: "/path/to/all-MiniLM-L6-v2"
+device: 0
+results_dir: "./results_gptj"
+
+k: 16
+model_parallel: false

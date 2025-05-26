@@ -1,0 +1,8 @@
+alg_name: "IKE"
+model_name: "../huggingface/huggingface/llama2-7b"
+sentence_model_name: "../huggingface/huggingface/all-MiniLM-L6-v2"
+device: 0
+
+k: 16
+model_parallel: true
+results_dir: EasyEditOurs/results/llama_jan_final/baselines
